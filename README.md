@@ -29,7 +29,8 @@ def circulate():
     print("After circulating the values are:",result)
 ```
 ## Output:
-!["Output"](/outputcirc.png)
+![image](https://github.com/JerowinGeo/Circulate-the-values-of-N-variables/assets/147139744/14f15215-4d98-4fbd-91fa-681613599e08)
+
 
 ## Result:
 Thus, the python program for "Circulate the values of n variables" has been executed successfully.
